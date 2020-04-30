@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 824 824">
+    <g id="primaryboxes">
+        <rect width="824" height="208" rx="12"/>
+        <rect y="616" width="824" height="208" rx="12"/>
+    </g>
+    <g id="secondaryboxes">
+        <rect y="308" width="824" height="208" rx="12"/>
+    </g>
+</svg>
