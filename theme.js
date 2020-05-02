@@ -1,7 +1,7 @@
 const themeMap = {
-    dark: "light",
-    light: "hacker",
-    hacker: "dark"
+    light: "dark",
+    dark: "hacker",
+    hacker: "light"
   };
   
   const theme = localStorage.getItem('theme')
